@@ -11,3 +11,12 @@ let name = "akshay"
 let string_in_boolean = Boolean(name);
 // console.log(string_in_boolean);
 // console.log(typeof string_in_boolean);
+
+
+// operations 
+
+console.log(2+3);
+console.log(2-3);
+console.log(2*3);
+console.log(2/3);
+console.log(2%3);

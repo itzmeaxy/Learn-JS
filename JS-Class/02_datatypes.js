@@ -11,10 +11,12 @@ let isloggegin = false // boolean datatype
 // bigint
 //boolean :- true/false
 //string :- "hi i am string" 
-//null :- standalone value   and it a object
+//null :- standalone value and it a object
 //undefined 
 //symbol :- unique
 
 
 //             non-prmitive datatype
 //object
+//array
+//functions
